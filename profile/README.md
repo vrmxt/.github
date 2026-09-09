@@ -51,14 +51,14 @@ Stock VRM 1.0 hooks (Blender third-party; UniVRM fork):
 | [VRM Add-on for Blender 4.6.0+](https://github.com/saturday06/VRM-Addon-for-Blender/releases/tag/v4.6.0) | same | [Blender Extension Hooks](https://github.com/vrmxt/Extended-VRM-Specs/blob/main/implementations/blender-extension-hooks.md) |
 | [Extended-UniVRM](https://github.com/miramocha/Extended-UniVRM) | [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) | [UniVRM upstream hooks](https://github.com/vrmxt/Extended-VRM-Specs/blob/main/implementations/univrm-upstream-hooks.md) |
 
-`VRMXT_*` packages (this org plus shipping repos still under [miramocha](https://github.com/miramocha)):
+`VRMXT_*` packages (Warudo plugin still under [miramocha](https://github.com/miramocha)):
 
 | Repo | Role |
 |------|------|
 | [Extended-VRM-Specs](https://github.com/vrmxt/Extended-VRM-Specs) | Portable file behavior |
 | [three-vrmxt](https://github.com/vrmxt/three-vrmxt) | Optional npm peer for [@pixiv/three-vrm](https://github.com/pixiv/three-vrm); local-file viewer |
-| [VRMXT-Extension-for-Blender](https://github.com/miramocha/VRMXT-Extension-for-Blender) | Blender authoring / I/O via VRM1 hooks |
-| [UniVRMXT](https://github.com/miramocha/UniVRMXT) | Unity UPM on UniVRM |
+| [VRMXT-Extension-for-Blender](https://github.com/vrmxt/VRMXT-Extension-for-Blender) | Blender authoring / I/O via VRM1 hooks |
+| [UniVRMXT](https://github.com/vrmxt/UniVRMXT) | Unity UPM on UniVRM |
 | [VRMXT Plugin for Warudo](https://github.com/miramocha/VRMXT-Plugin-for-Warudo) | Warudo consumer ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3767350210)) |
 
 Planned consumers (Godot, Unreal/VRM4U, desktop Player, Posing Desktop, VRChat converter) are documented in the specs repo. They are not shipping products here.
